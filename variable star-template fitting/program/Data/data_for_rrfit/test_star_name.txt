@@ -1,0 +1,6 @@
+star_filenames
+V005965.fitlc
+V008326.fitlc
+V008595.fitlc
+V010099.fitlc
+V011309.fitlc
